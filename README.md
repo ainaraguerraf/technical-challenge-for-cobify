@@ -1,4 +1,15 @@
 # Tech challenge
+![image](https://github.com/ainaraguerraf/technical-challenge-for-cobify/assets/115892160/ce80edd4-1a03-468e-b310-58aea1459681)
+
+These are the documents of my solution for the challenge:
+- [Exploratory Data Analysis](https://github.com/ainaraguerraf/technical-challenge-for-cobify/blob/master/A.%20Exploratory%20Data%20Analysis.ipynb)
+- [Visualizations](https://github.com/ainaraguerraf/technical-challenge-for-cobify/blob/master/B.%20Visualization.ipynb)
+- [Dashboard of the visualizations and conclusions](https://github.com/ainaraguerraf/technical-challenge-for-cobify/blob/master/visualizations_conclusions.png)
+- [Predictions](https://github.com/ainaraguerraf/technical-challenge-for-cobify/blob/master/C.%20Predictions.ipynb)
+- [Streamlit code](https://github.com/ainaraguerraf/technical-challenge-for-cobify/tree/master/Streamlit)
+- [Streamlit demo](https://github.com/ainaraguerraf/technical-challenge-for-cobify/blob/master/streamlit_demo.mp4)
+
+***
 
 <p align="center"> 
 <img src="https://kamisetas.com/image/bordados/Cobi-Barcelona-92-parche.gif" alt="drawing" width="200"/>
